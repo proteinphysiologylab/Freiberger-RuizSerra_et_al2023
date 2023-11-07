@@ -14,10 +14,10 @@ The data needed to reproduce the results of this study can be found at the follo
 
 | Name            | Link                                                    |
 |-----------------|---------------------------------------------------------|
-| RAS             | [RAS](https://frustraevo.qb.fcen.uba.ar/results/20237181515717941)     |
-| ARF             | [ARF](https://frustraevo.qb.fcen.uba.ar/results/2023719101038158741)     |
-| RAB             | [RAB](https://frustraevo.qb.fcen.uba.ar/results/2023719213047811657)     |
-| RHO             | [RHO](https://frustraevo.qb.fcen.uba.ar/results/2023724114131570139)     |
+| RAS             | [RAS](https://frustraevo.qb.fcen.uba.ar/results/2023103171319121537)     |
+| ARF             | [ARF](https://frustraevo.qb.fcen.uba.ar/results/2023103162732321234)     |
+| RAB             | [RAB](https://frustraevo.qb.fcen.uba.ar/results/2023103162016592452)     |
+| RHO             | [RHO](https://frustraevo.qb.fcen.uba.ar/results/2023103162738940551)     |
 | RfaH            | [RfaH](https://frustraevo.qb.fcen.uba.ar/results/20231024122748118092)   |
 | Alpha Globins   | [AlphaGlobins](https://frustraevo.qb.fcen.uba.ar/results/20238231901214621) |
 | Betas Globins   | [BetaGlobins](https://frustraevo.qb.fcen.uba.ar/results/2023102413815940749) |
